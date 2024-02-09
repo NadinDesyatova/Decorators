@@ -1,0 +1,25 @@
+Date and time of the function call: 2024-02-09 13:49:42
+Function name: hello_world
+The arguments that the function was called with: () и {}
+Return value: Hello World
+
+Date and time of the function call: 2024-02-09 13:49:42
+Function name: summator
+The arguments that the function was called with: (2, 2) и {}
+Return value: 4
+
+Date and time of the function call: 2024-02-09 13:49:42
+Function name: div
+The arguments that the function was called with: (6, 2) и {}
+Return value: 3.0
+
+Date and time of the function call: 2024-02-09 13:49:42
+Function name: summator
+The arguments that the function was called with: (4.3,) и {'b': 2.2}
+Return value: 6.5
+
+Date and time of the function call: 2024-02-09 13:49:42
+Function name: summator
+The arguments that the function was called with: () и {'a': 0, 'b': 0}
+Return value: 0
+
