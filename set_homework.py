@@ -27,7 +27,7 @@ def calc_namecode(name):
 
 
 if __name__ == '__main__':
-	path = ('set_hm.log')
+	path = 'set_hm.log'
 
 	if os.path.exists(path):
 		os.remove(path)
